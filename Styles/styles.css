@@ -28,3 +28,11 @@ body {
   fill: none;
   stroke: steelblue;
 }
+
+.chart-containers {
+  fill: none;
+  border: 1.5px solid grey;
+  color: green;
+
+
+}
